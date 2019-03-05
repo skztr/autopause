@@ -1,0 +1,2 @@
+gamerule doDaylightCycle false
+gamerule doWeatherCycle false
